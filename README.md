@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ahsanbinrafiq
 - 👀 I’m interested in learning new technologies and languages
-- 🌱 I’m currently learning React Native
+- 🌱 I’m currently working on React Native
 - 💞️ I’m looking to collaborate on Full stack development
 - 📫 How to reach me email me at "ahsan.rafiq531@gmail.com"
 
